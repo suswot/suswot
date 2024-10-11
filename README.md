@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">🌐 Connect with me</h3>
+<h3 align="left"> Connect with me</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shashwat-srinivasan-gopi-071b80314" target="_blank">
