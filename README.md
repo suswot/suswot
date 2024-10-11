@@ -22,6 +22,9 @@
   <a href="https://www.linkedin.com/in/shashwat-srinivasan-gopi-071b80314" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" />
   </a>
+ <a href="https://discord.com/users/781842392620859474" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord logo" />
+ </a>
 </div>
 
 ###
