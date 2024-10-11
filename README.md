@@ -1,4 +1,4 @@
-<h1 align="left">Hello, What's up?</h1>
+<h1 align="center">Hello, What's up?</h1>
 
 ###
 
@@ -22,11 +22,10 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages and Tools:</h2>
 
 ###
 
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
@@ -34,6 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-</div>
+
 
 ###
