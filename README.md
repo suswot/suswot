@@ -1,4 +1,4 @@
-<h1 align="center">Hello, What's up?</h1>
+<h1 align="center">Welcome to My GitHub Portfolio!</h1>
 
 ###
 
@@ -10,9 +10,12 @@
 
 ###
 
-<p align="left">🎓 Enthusiastic about Robotics<br>
-📚 Currently learning C/C++<br>
-🎯 Goals: Software Development</p>
+<p align="left">
+  <strong>About Me:</strong><br>
+  🎓 Passionate about Robotics and Artificial Intelligence<br>
+  💻 Currently honing my skills in C/C++<br>
+  🚀 Focused on building a career in Software Development
+</p>
 
 ###
 
