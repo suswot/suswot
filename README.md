@@ -16,7 +16,7 @@
 <p align="left"> <b> Connections:</b></p>
 <div align="left">
   <a href="www.linkedin.com/in/ shashwat-srinivasan-gopi-071b80314" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="12" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
