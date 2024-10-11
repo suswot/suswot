@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Hello, What's up?</h1>
 
 ###
 
@@ -13,10 +13,10 @@
 <p align="left">Enthusiastic about Robotics.<br>📚 I'm currently learning C/C++<br>🎯 Goals: Software Development</p>
 
 ###
-
+<p align="left"> <b> Connections:</b></p>
 <div align="left">
   <a href="www.linkedin.com/in/ shashwat-srinivasan-gopi-071b80314" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="12" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
