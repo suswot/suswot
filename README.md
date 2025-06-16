@@ -9,9 +9,9 @@
 <h3 align="left">About Me</h3>
 
 <p align="left">
-  🎓 Passionate about Robotics and Artificial Intelligence<br>
-  💻 Currently honing my skills in C/C++<br>
-  🚀 Focused on building a career in Software Development
+  🎓 Passionate about Websites, AI and robotics. <br>
+  💻 Currently honing my skills in Front-end development.<br>
+  🚀 Focused on building a career in Full Stack Web Dev.
 </p>
 
 ###
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" />
   </a>
  <a href="https://discord.com/users/781842392620859474" target="_blank">
-    <img src="(https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6765dc51a13e31531996cef3_logo-dark.svg)" alt="Hackerrank logo" />
+    <img src="https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6765dc51a13e31531996cef3_logo-dark.svg" alt="Hackerrank logo" />
  </a>
 </div>
 
