@@ -9,7 +9,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suswot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
----
 
 ### About Me
 
@@ -32,7 +31,7 @@
 
 ---
 
-### 🛠 Languages and Tools
+###  Languages and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
@@ -42,31 +41,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB"/>
 </p>
 
----
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suswot&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suswot&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suswot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
----
-
-### 📅 GitHub Contribution Calendar
-
-<!-- GitHub Activity Graph by Ashutosh00710 -->
 <a href="https://github.com/suswot">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suswot&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </a>
 
 ---
 
-### 🚀 Current Focus
+### Current Focus
 
-- Practicing full HTML/CSS projects  
+- Practicing front-end projects concerning HTML and CSS.  
 - Starting beginner JavaScript interactivity  
 - Git & GitHub workflows for collaboration  
 - Long-term: Exploring AI applications on the web
