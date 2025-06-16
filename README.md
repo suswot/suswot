@@ -6,9 +6,7 @@
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suswot&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suswot&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <br />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suswot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 ---
