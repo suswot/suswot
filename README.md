@@ -4,7 +4,13 @@
   I'm <strong>Shashwat Srinivasan Gopi</strong>, a CSE freshman at VIT Chennai.<br>
   Exploring the segment of AI, Robotics, and Web Development.
 </p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suswot&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suswot&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suswot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
 ---
 
 ### About Me
@@ -28,7 +34,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠 Languages and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
@@ -36,12 +42,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats (Tokyo Night Theme)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suswot&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
