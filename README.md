@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://discord.com/users/781842392620859474" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="HackerRank"/>" alt="Discord"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
 </p>
 
